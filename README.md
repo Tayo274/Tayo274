@@ -9,7 +9,7 @@ I'm a data analyst with microsoft powerBI certification from GOMYCODE Nigeria wi
 - Google Sheets
 
 ## My Projects
-- [Financial Analysis Dashboard] (....)
+- [Financial Analysis Dashboard](https://github.com/Tayo274/Financial-Analysis-)
 
 ## Currently Learning
 - Advanced SQL

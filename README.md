@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi, I'm Tayo 👋
 
-<!--
-**Tayo274/Tayo274** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a data analyst with microsoft powerBI certification from GOMYCODE Nigeria with a background in Accounting- now building impactful projects in Excel, SQL and Power BI
 
-Here are some ideas to get you started:
+## Tools I work With
+- Microsoft Excel
+- SQL
+- Power BI
+- Google Sheets
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Projects
+- [Financial Analysis Dashboard] (....)
+
+## Currently Learning
+- Advanced SQL
+- Python for Data Science
+
+## Let's connect!
+[Linkedin](https://www.linkedin.com/in/farinde-oyetayo-a998061b1/)
